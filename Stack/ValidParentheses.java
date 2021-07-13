@@ -1,3 +1,6 @@
+/* Time Complexity - O(n)
+   Auxiliary Space - O(n)
+*/
 class ValidParentheses {
     
     public boolean isValid(String s) {
