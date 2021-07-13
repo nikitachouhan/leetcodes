@@ -1,6 +1,7 @@
 class ValidParentheses {
     
     public boolean isValid(String s) {
+        // Using ArrayDeque is faster than using Stack class.
         Deque<Character> stack = new ArrayDeque<Character>();
                 
         for(int i=0; i<s.length(); i++) {
