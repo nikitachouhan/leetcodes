@@ -1,5 +1,7 @@
 # LeetCode Solutions
 
-This repository contains the solutions I am submitting on leetcode.
+- [References](#references)
 
+## References
+Questions reference is taken from [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
